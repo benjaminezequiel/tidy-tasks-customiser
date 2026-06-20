@@ -117,6 +117,10 @@
     </div>
     </section>
 
+    <section class="group">
+        
+        <p class="note"><a href="https://www.benjaminezequiel.com/" target="_blank">Benjamin Ezequiel</a> @ 2026</p>   
+    </section>
   </aside>
 </template>
 
