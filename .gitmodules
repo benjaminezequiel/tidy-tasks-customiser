@@ -1,0 +1,3 @@
+[submodule "snippet"]
+	path = snippet
+	url = https://github.com/benjaminezequiel/tidy-tasks

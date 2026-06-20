@@ -1,0 +1,20 @@
+{
+  "name": "tidy-tasks-customiser",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Web customiser for the Tidy Tasks Obsidian snippet. Compiles the snippet's real SCSS (consumed as a git submodule) in the browser.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "sass": "^1.77.0",
+    "vue": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.2.0"
+  }
+}
